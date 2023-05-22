@@ -1,0 +1,10 @@
+site_name: "mob-design-system-ios"
+site_description: "Biblioteca de design system para IOS"
+
+nav:
+  - Início Rápido: 'index.md'
+  - Releases:
+      - v0.0.1: 'releases/v0.0.1.md'
+      - v0.0.2: 'releases/v0.0.2.md'
+plugins:
+  - techdocs-core

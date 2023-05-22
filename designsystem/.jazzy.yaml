@@ -1,0 +1,17 @@
+output: docs/documentation
+documentation: Docs/*.md
+clean: true
+xcodebuild_arguments:
+- -project
+- DesignSystem.xcodeproj
+- -scheme
+- DesignSystem
+- CODE_SIGNING_ALLOWED = NO
+author: Localiza
+module: DesignSystem
+module_version: 1.0
+copyright:  Copyright © 2023 Localiza. All rights reserved.
+min_acl: internal
+# Options : [apple | fullwidth | jony | DIRPATH]
+# Which theme to use. Specify either ‘apple’ (default), one of the other built-in theme names, or the path to your mustache templates and other assets for a custom theme.Default: apple
+theme: apple

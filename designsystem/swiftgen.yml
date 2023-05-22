@@ -1,0 +1,10 @@
+xcassets:
+ inputs:
+  - DesignSystem/Resource/Colors.xcassets
+ outputs:
+  - templatePath: asset-to-color-extension.stencil
+    output: DesignSystem/Theme/LDSColors.swift
+    params:
+      enumName: LDSColors
+      publicAccess: true
+      allValues: true

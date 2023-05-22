@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.160421">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: bash /Users/runner/work/1/s/DesignSystem/scripts/semver_version.sh -o none -g &apos;ios-design-system-&apos; -s &apos;-beta&apos;" time="0.297701">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: source version_env.sh &amp;&amp; echo $VERSION" time="0.010654">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: echo $VERSION " time="0.008662">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: fastlane ios release_pods version:&apos;0.0.8-beta&apos; tag:&apos;ios-design-system-0.0.8-beta&apos;" time="3.878908">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: bash /Users/runner/work/1/s/DesignSystem/scripts/semver_version.sh  -g &apos;ios-design-system-&apos; -p &apos;ios-design-system-&apos; -s &apos;-beta&apos; " time="0.351888">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>

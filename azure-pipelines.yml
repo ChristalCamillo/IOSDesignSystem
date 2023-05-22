@@ -1,0 +1,253 @@
+#
+# Azure Pipelines
+
+trigger:
+  branches:
+    include:
+      - '*'
+    exclude:
+      - main
+
+name: $(Build.BuildId)_$(SourceBranchName)_$(Date:yyyyMMdd)$(Rev:.r)
+resources:
+  repositories:
+    - repository: templatesconfig
+      type: git
+      name: 'Infraestrutura - Localiza Agile/TI.CICD.Configuration'
+      ref: refs/heads/main
+    - repository: templates
+      type: git
+      name: 'Infraestrutura - Localiza Agile/TI.CICD.Templates'
+      ref: refs/tags/7-stable
+    - repository: templatesBackstage
+      type: git
+      name: 'Infraestrutura - Localiza Agile/TI.CICD.Templates.Backstage'
+      ref: refs/tags/2-stable  
+
+variables:
+  - template: config.yml@templatesconfig
+  - template: yaml/config/vars.yml@templates
+# stage1: CI -> Build -> Test -> Lint
+# stage2: Release 
+stages:
+- stage: Build_and_Test
+  displayName: 'Build IOS Module'
+  condition: always()
+  jobs:
+    - job: ChecagemEnvironmentsEVault
+      displayName: 'Checa valores, Cria Environments e Segredos Vault'
+      pool:
+        name: 'Localiza Agil - Linux'
+      variables:
+        TemplatesFolder: $(System.DefaultWorkingDirectory)/TI.CICD.Templates
+      steps:
+        - checkout: templates
+          clean: true
+          persistCredentials: true
+        - checkout: self
+          clean: true
+
+        - task: AzureKeyVault@1
+          displayName: 'Azure Key Vault: CofreLocaliza-d-EastUS'
+          inputs:
+            azureSubscription: $(KeyVaultSubscription)
+            KeyVaultName: 'CofreLocaliza-d-EastUS'
+            SecretsFilter: 'ti-cicd-agentazuredevops-token,ti-cicd-azure-service-principal-credentials-client-id,ti-cicd-azure-service-principal-credentials-client-secret,ti-cicd-azure-service-principal-credentials-tenant-id'
+            RunAsPreJob: true
+
+        - task: azurepowershell@4
+          displayName: 'Exporta segredos para jobs Microsoft Hosted'
+          name: SegredosVault
+          inputs:
+            azureSubscription: $(KeyVaultSubscription)
+            ScriptPath: '$(TemplatesFolder)/scripts/exporta-segredos-vault.ps1'
+            azurePowerShellVersion: LatestVersion    
+    - job: IOS
+      displayName: Build IOS Module
+      dependsOn: ChecagemEnvironmentsEVault
+      pool:
+        vmImage: 'macOS-latest'  
+      variables:
+        scheme: 'Runner'
+        sdk: 'iphoneos'
+        configuration: 'Release'
+        COCOAPODS_DISABLE_STATS: true
+        SONARCLOUD_TOKEN: $[ dependencies.ChecagemEnvironmentsEVault.outputs['SegredosVault.SonarCloudToken'] ]
+        AZDEVOPS_TOKEN: $[ dependencies.ChecagemEnvironmentsEVault.outputs['SegredosVault.AzDevopsToken'] ]
+        CI: true
+        SonarCloudEnabled: true
+      steps:
+      - task: Cache@2
+        displayName: "Cache Gem directory"
+        inputs:
+          key: gem | $(Agent.OS) | $(System.DefaultWorkingDirectory)/DesignSystem/Gemfile.lock
+          restoreKeys: |
+            gem | "$(Agent.OS)"
+          path: /Users/runner/.gem
+          cacheHitVar: GEM_CACHE_HIT
+      - task: Bash@3
+        displayName: 'INSTALL FASTLANE DEPENDENCIES'
+        inputs:
+          targetType: inline
+          script: |
+            cd $(System.DefaultWorkingDirectory)/DesignSystem && bundle config set path '~/.gem' && bundle install
+          condition: ne(variables.GEM_CACHE_HIT, 'true')
+      - task: Bash@3
+        displayName: 'INSTALL XCODEGEN'
+        inputs:
+          targetType: inline
+          script: |
+            make setupci && make generate  
+      - task: Bash@3
+        displayName: 'Build IOS'
+        inputs:
+          targetType: inline
+          script: |
+            cd $(System.DefaultWorkingDirectory)/DesignSystem && 
+            xcodebuild \
+            -project "DesignSystem.xcodeproj" \
+            -scheme "DesignSystem" \
+            -sdk iphonesimulator \
+            -destination 'platform=iOS Simulator,name=iPhone 12 Pro' \
+            -derivedDataPath Build/ \
+            -enableCodeCoverage YES \
+            clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO      
+      - task: Bash@3
+        displayName: 'RUN FASTLANE TEST'
+        inputs:
+          targetType: inline
+          script: |
+            cd $(System.DefaultWorkingDirectory)/DesignSystem && bundle exec fastlane ios tests   
+      - task: PublishCodeCoverageResults@1
+        inputs:
+          summaryFileLocation: '$(System.DefaultWorkingDirectory)/DesignSystem/fastlane/sonarqube-generic-coverage.xml'
+          pathToSources: '$(System.DefaultWorkingDirectory)/DesignSystem'
+      - task: PublishTestResults@2
+        inputs:
+          testResultsFormat: 'JUnit'
+          testResultsFiles: '**/report.html'
+          searchFolder: '$(System.DefaultWorkingDirectory)/DesignSystem/fastlane/test_output'
+      - task: Bash@3
+        displayName: 'INSTALL SONAR-SCANNER'
+        inputs:
+          targetType: inline
+          script: |
+            brew install sonar-scanner
+      - task: Bash@3
+        displayName: 'RUN FASTLANE SONAR'
+        inputs:
+          targetType: inline
+          script: |
+            cd $(System.DefaultWorkingDirectory)/DesignSystem && bundle exec fastlane ios sonarQubeAnalysis
+
+- ${{ if startsWith(variables['Build.SourceBranch'], 'refs/heads/release/') }}:
+  - stage: beta
+    displayName: 'Publish BETA version'
+    dependsOn: Build_and_Test
+    condition: succeeded('Build_and_Test')
+    jobs:
+      - deployment: IOS
+        environment: mob-design-system-ios-beta
+        displayName: Generate version IOS Module
+        pool:
+          vmImage: 'macOS-latest'
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                - checkout: self
+                  fetchDepth: 0
+                  persistCredentials: true
+                  clean: true
+                - task: JavaToolInstaller@0
+                  inputs:
+                    versionSpec: '11'
+                    jdkArchitectureOption: 'x64'
+                    jdkSourceOption: 'PreInstalled'
+                - task: Cache@2
+                  displayName: "Cache Gem directory"
+                  inputs:
+                    key: gem | $(Agent.OS) | $(System.DefaultWorkingDirectory)/DesignSystem/Gemfile.lock
+                    restoreKeys: |
+                      gem | "$(Agent.OS)"
+                    path: /Users/runner/.gem
+                    cacheHitVar: GEM_CACHE_HIT
+                - task: Bash@3
+                  displayName: 'INSTALL FASTLANE DEPENDENCIES'
+                  inputs:
+                    targetType: inline
+                    script: |
+                      cd $(System.DefaultWorkingDirectory)/DesignSystem && bundle config set path '~/.gem' && bundle install
+                  condition: ne(variables.GEM_CACHE_HIT, 'true')
+                - task: Bash@3
+                  displayName: 'INSTALL XCODEGEN'
+                  inputs:
+                    targetType: inline
+                    script: |
+                      make setupci && make generate
+                - task: Bash@3
+                  displayName: 'Bump beta version'
+                  env:
+                    SYSTEM_ACCESSTOKEN: $(System.AccessToken)
+                  inputs:
+                    filePath: '$(System.DefaultWorkingDirectory)/DesignSystem/scripts/bump-beta-version.sh'
+                    arguments: '$(Build.SourceBranch)'
+  - stage: release
+    displayName: 'Publish latest version'
+    dependsOn: beta
+    condition: and(succeeded('beta'), startsWith(variables['Build.SourceBranch'], 'refs/heads/release/'))
+    jobs:
+      - deployment: IOS
+        displayName: Generate latest version IOS Module
+        environment: mob-design-system-ios-latest
+        pool:
+          vmImage: 'macOS-latest'
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+              - checkout: self
+                fetchDepth: 0
+                persistCredentials: true
+                clean: true
+              - task: JavaToolInstaller@0
+                inputs:
+                  versionSpec: '11'
+                  jdkArchitectureOption: 'x64'
+                  jdkSourceOption: 'PreInstalled'
+              - task: Cache@2
+                displayName: "Cache Gem directory"
+                inputs:
+                  key: gem | $(Agent.OS) | $(System.DefaultWorkingDirectory)/DesignSystem/Gemfile.lock
+                  restoreKeys: |
+                    gem | "$(Agent.OS)"
+                  path: /Users/runner/.gem
+                  cacheHitVar: GEM_CACHE_HIT
+              - task: Bash@3
+                displayName: 'INSTALL FASTLANE DEPENDENCIES'
+                inputs:
+                  targetType: inline
+                  script: |
+                    cd $(System.DefaultWorkingDirectory)/DesignSystem && bundle config set path '~/.gem' && bundle install
+                condition: ne(variables.GEM_CACHE_HIT, 'true')
+              - task: Bash@3
+                displayName: 'INSTALL XCODEGEN'
+                inputs:
+                  targetType: inline
+                  script: |
+                    make setupci && make generate
+              - task: Bash@3
+                displayName: 'Bump release version'
+                env:
+                  SYSTEM_ACCESSTOKEN: $(System.AccessToken)
+                inputs:
+                  filePath: '$(System.DefaultWorkingDirectory)/DesignSystem/scripts/bump-version.sh'
+                  arguments: '$(Build.SourceBranch)'
+- template: yaml/pipelines/pipeline-techdocs.yml@templatesBackstage
+  parameters:
+    componentName: "mob-design-system-ios"
+    entityKind: 'component'
+    Ambientes:
+      dev: false
+      tst: false
+      prd: true

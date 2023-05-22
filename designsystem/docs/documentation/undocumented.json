@@ -1,0 +1,2889 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 14,
+      "symbol": "LDSColors.amber0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 15,
+      "symbol": "LDSColors.amber10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 16,
+      "symbol": "LDSColors.amber100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 17,
+      "symbol": "LDSColors.amber20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 18,
+      "symbol": "LDSColors.amber30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 19,
+      "symbol": "LDSColors.amber40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 20,
+      "symbol": "LDSColors.amber5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 21,
+      "symbol": "LDSColors.amber50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 22,
+      "symbol": "LDSColors.amber60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 23,
+      "symbol": "LDSColors.amber70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 24,
+      "symbol": "LDSColors.amber80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 25,
+      "symbol": "LDSColors.amber90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 26,
+      "symbol": "LDSColors.black",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 27,
+      "symbol": "LDSColors.blue0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 28,
+      "symbol": "LDSColors.blue10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 29,
+      "symbol": "LDSColors.blue100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 30,
+      "symbol": "LDSColors.blue20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 31,
+      "symbol": "LDSColors.blue30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 32,
+      "symbol": "LDSColors.blue40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 33,
+      "symbol": "LDSColors.blue5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 34,
+      "symbol": "LDSColors.blue50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 35,
+      "symbol": "LDSColors.blue60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 36,
+      "symbol": "LDSColors.blue70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 37,
+      "symbol": "LDSColors.blue80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 38,
+      "symbol": "LDSColors.blue90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 39,
+      "symbol": "LDSColors.citron0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 40,
+      "symbol": "LDSColors.citron10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 41,
+      "symbol": "LDSColors.citron100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 42,
+      "symbol": "LDSColors.citron20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 43,
+      "symbol": "LDSColors.citron30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 44,
+      "symbol": "LDSColors.citron40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 45,
+      "symbol": "LDSColors.citron5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 46,
+      "symbol": "LDSColors.citron50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 47,
+      "symbol": "LDSColors.citron60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 48,
+      "symbol": "LDSColors.citron70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 49,
+      "symbol": "LDSColors.citron80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 50,
+      "symbol": "LDSColors.citron90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 51,
+      "symbol": "LDSColors.gray0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 52,
+      "symbol": "LDSColors.gray10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 53,
+      "symbol": "LDSColors.gray100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 54,
+      "symbol": "LDSColors.gray20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 55,
+      "symbol": "LDSColors.gray30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 56,
+      "symbol": "LDSColors.gray40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 57,
+      "symbol": "LDSColors.gray5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 58,
+      "symbol": "LDSColors.gray50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 59,
+      "symbol": "LDSColors.gray60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 60,
+      "symbol": "LDSColors.gray70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 61,
+      "symbol": "LDSColors.gray80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 62,
+      "symbol": "LDSColors.gray90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 63,
+      "symbol": "LDSColors.green0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 64,
+      "symbol": "LDSColors.green10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 65,
+      "symbol": "LDSColors.green100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 66,
+      "symbol": "LDSColors.green20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 67,
+      "symbol": "LDSColors.green30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 68,
+      "symbol": "LDSColors.green40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 69,
+      "symbol": "LDSColors.green5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 70,
+      "symbol": "LDSColors.green50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 71,
+      "symbol": "LDSColors.green60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 72,
+      "symbol": "LDSColors.green70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 73,
+      "symbol": "LDSColors.green80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 74,
+      "symbol": "LDSColors.green90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 75,
+      "symbol": "LDSColors.indigo0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 76,
+      "symbol": "LDSColors.indigo10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 77,
+      "symbol": "LDSColors.indigo100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 78,
+      "symbol": "LDSColors.indigo20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 79,
+      "symbol": "LDSColors.indigo30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 80,
+      "symbol": "LDSColors.indigo40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 81,
+      "symbol": "LDSColors.indigo5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 82,
+      "symbol": "LDSColors.indigo50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 83,
+      "symbol": "LDSColors.indigo60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 84,
+      "symbol": "LDSColors.indigo70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 85,
+      "symbol": "LDSColors.indigo80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 86,
+      "symbol": "LDSColors.indigo90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 87,
+      "symbol": "LDSColors.lime0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 88,
+      "symbol": "LDSColors.lime10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 89,
+      "symbol": "LDSColors.lime100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 90,
+      "symbol": "LDSColors.lime20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 91,
+      "symbol": "LDSColors.lime30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 92,
+      "symbol": "LDSColors.lime40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 93,
+      "symbol": "LDSColors.lime5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 94,
+      "symbol": "LDSColors.lime50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 95,
+      "symbol": "LDSColors.lime60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 96,
+      "symbol": "LDSColors.lime70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 97,
+      "symbol": "LDSColors.lime80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 98,
+      "symbol": "LDSColors.lime90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 99,
+      "symbol": "LDSColors.mint0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 100,
+      "symbol": "LDSColors.mint10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 101,
+      "symbol": "LDSColors.mint100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 102,
+      "symbol": "LDSColors.mint20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 103,
+      "symbol": "LDSColors.mint30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 104,
+      "symbol": "LDSColors.mint40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 105,
+      "symbol": "LDSColors.mint5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 106,
+      "symbol": "LDSColors.mint50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 107,
+      "symbol": "LDSColors.mint60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 108,
+      "symbol": "LDSColors.mint70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 109,
+      "symbol": "LDSColors.mint80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 110,
+      "symbol": "LDSColors.mint90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 111,
+      "symbol": "LDSColors.olive0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 112,
+      "symbol": "LDSColors.olive10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 113,
+      "symbol": "LDSColors.olive100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 114,
+      "symbol": "LDSColors.olive20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 115,
+      "symbol": "LDSColors.olive30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 116,
+      "symbol": "LDSColors.olive40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 117,
+      "symbol": "LDSColors.olive5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 118,
+      "symbol": "LDSColors.olive50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 119,
+      "symbol": "LDSColors.olive60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 120,
+      "symbol": "LDSColors.olive70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 121,
+      "symbol": "LDSColors.olive80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 122,
+      "symbol": "LDSColors.olive90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 123,
+      "symbol": "LDSColors.orange0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 124,
+      "symbol": "LDSColors.orange10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 125,
+      "symbol": "LDSColors.orange100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 126,
+      "symbol": "LDSColors.orange20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 127,
+      "symbol": "LDSColors.orange30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 128,
+      "symbol": "LDSColors.orange40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 129,
+      "symbol": "LDSColors.orange5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 130,
+      "symbol": "LDSColors.orange50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 131,
+      "symbol": "LDSColors.orange60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 132,
+      "symbol": "LDSColors.orange70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 133,
+      "symbol": "LDSColors.orange80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 134,
+      "symbol": "LDSColors.orange90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 135,
+      "symbol": "LDSColors.pink0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 136,
+      "symbol": "LDSColors.pink10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 137,
+      "symbol": "LDSColors.pink100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 138,
+      "symbol": "LDSColors.pink20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 139,
+      "symbol": "LDSColors.pink30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 140,
+      "symbol": "LDSColors.pink40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 141,
+      "symbol": "LDSColors.pink5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 142,
+      "symbol": "LDSColors.pink50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 143,
+      "symbol": "LDSColors.pink60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 144,
+      "symbol": "LDSColors.pink70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 145,
+      "symbol": "LDSColors.pink80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 146,
+      "symbol": "LDSColors.pink90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 147,
+      "symbol": "LDSColors.purple0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 148,
+      "symbol": "LDSColors.purple10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 149,
+      "symbol": "LDSColors.purple100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 150,
+      "symbol": "LDSColors.purple20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 151,
+      "symbol": "LDSColors.purple30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 152,
+      "symbol": "LDSColors.purple40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 153,
+      "symbol": "LDSColors.purple5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 154,
+      "symbol": "LDSColors.purple50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 155,
+      "symbol": "LDSColors.purple60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 156,
+      "symbol": "LDSColors.purple70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 157,
+      "symbol": "LDSColors.purple80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 158,
+      "symbol": "LDSColors.purple90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 159,
+      "symbol": "LDSColors.red0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 160,
+      "symbol": "LDSColors.red10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 161,
+      "symbol": "LDSColors.red100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 162,
+      "symbol": "LDSColors.red20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 163,
+      "symbol": "LDSColors.red30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 164,
+      "symbol": "LDSColors.red40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 165,
+      "symbol": "LDSColors.red5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 166,
+      "symbol": "LDSColors.red50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 167,
+      "symbol": "LDSColors.red60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 168,
+      "symbol": "LDSColors.red70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 169,
+      "symbol": "LDSColors.red80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 170,
+      "symbol": "LDSColors.red90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 171,
+      "symbol": "LDSColors.rose0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 172,
+      "symbol": "LDSColors.rose10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 173,
+      "symbol": "LDSColors.rose100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 174,
+      "symbol": "LDSColors.rose20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 175,
+      "symbol": "LDSColors.rose30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 176,
+      "symbol": "LDSColors.rose40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 177,
+      "symbol": "LDSColors.rose5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 178,
+      "symbol": "LDSColors.rose50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 179,
+      "symbol": "LDSColors.rose60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 180,
+      "symbol": "LDSColors.rose70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 181,
+      "symbol": "LDSColors.rose80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 182,
+      "symbol": "LDSColors.rose90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 183,
+      "symbol": "LDSColors.sand0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 184,
+      "symbol": "LDSColors.sand10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 185,
+      "symbol": "LDSColors.sand100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 186,
+      "symbol": "LDSColors.sand20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 187,
+      "symbol": "LDSColors.sand30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 188,
+      "symbol": "LDSColors.sand40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 189,
+      "symbol": "LDSColors.sand5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 190,
+      "symbol": "LDSColors.sand50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 191,
+      "symbol": "LDSColors.sand60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 192,
+      "symbol": "LDSColors.sand70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 193,
+      "symbol": "LDSColors.sand80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 194,
+      "symbol": "LDSColors.sand90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 195,
+      "symbol": "LDSColors.teal0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 196,
+      "symbol": "LDSColors.teal10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 197,
+      "symbol": "LDSColors.teal100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 198,
+      "symbol": "LDSColors.teal20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 199,
+      "symbol": "LDSColors.teal30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 200,
+      "symbol": "LDSColors.teal40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 201,
+      "symbol": "LDSColors.teal5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 202,
+      "symbol": "LDSColors.teal50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 203,
+      "symbol": "LDSColors.teal60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 204,
+      "symbol": "LDSColors.teal70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 205,
+      "symbol": "LDSColors.teal80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 206,
+      "symbol": "LDSColors.teal90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 207,
+      "symbol": "LDSColors.white",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 208,
+      "symbol": "LDSColors.yellow0",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 209,
+      "symbol": "LDSColors.yellow10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 210,
+      "symbol": "LDSColors.yellow100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 211,
+      "symbol": "LDSColors.yellow20",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 212,
+      "symbol": "LDSColors.yellow30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 213,
+      "symbol": "LDSColors.yellow40",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 214,
+      "symbol": "LDSColors.yellow5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 215,
+      "symbol": "LDSColors.yellow50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 216,
+      "symbol": "LDSColors.yellow60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 217,
+      "symbol": "LDSColors.yellow70",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 218,
+      "symbol": "LDSColors.yellow80",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 219,
+      "symbol": "LDSColors.yellow90",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 223,
+      "symbol": "UIColor.amber0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 224,
+      "symbol": "UIColor.amber10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 225,
+      "symbol": "UIColor.amber100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 226,
+      "symbol": "UIColor.amber20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 227,
+      "symbol": "UIColor.amber30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 228,
+      "symbol": "UIColor.amber40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 229,
+      "symbol": "UIColor.amber5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 230,
+      "symbol": "UIColor.amber50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 231,
+      "symbol": "UIColor.amber60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 232,
+      "symbol": "UIColor.amber70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 233,
+      "symbol": "UIColor.amber80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 234,
+      "symbol": "UIColor.amber90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 235,
+      "symbol": "UIColor.black",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 236,
+      "symbol": "UIColor.blue0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 237,
+      "symbol": "UIColor.blue10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 238,
+      "symbol": "UIColor.blue100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 239,
+      "symbol": "UIColor.blue20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 240,
+      "symbol": "UIColor.blue30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 241,
+      "symbol": "UIColor.blue40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 242,
+      "symbol": "UIColor.blue5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 243,
+      "symbol": "UIColor.blue50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 244,
+      "symbol": "UIColor.blue60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 245,
+      "symbol": "UIColor.blue70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 246,
+      "symbol": "UIColor.blue80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 247,
+      "symbol": "UIColor.blue90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 248,
+      "symbol": "UIColor.citron0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 249,
+      "symbol": "UIColor.citron10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 250,
+      "symbol": "UIColor.citron100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 251,
+      "symbol": "UIColor.citron20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 252,
+      "symbol": "UIColor.citron30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 253,
+      "symbol": "UIColor.citron40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 254,
+      "symbol": "UIColor.citron5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 255,
+      "symbol": "UIColor.citron50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 256,
+      "symbol": "UIColor.citron60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 257,
+      "symbol": "UIColor.citron70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 258,
+      "symbol": "UIColor.citron80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 259,
+      "symbol": "UIColor.citron90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 260,
+      "symbol": "UIColor.gray0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 261,
+      "symbol": "UIColor.gray10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 262,
+      "symbol": "UIColor.gray100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 263,
+      "symbol": "UIColor.gray20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 264,
+      "symbol": "UIColor.gray30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 265,
+      "symbol": "UIColor.gray40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 266,
+      "symbol": "UIColor.gray5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 267,
+      "symbol": "UIColor.gray50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 268,
+      "symbol": "UIColor.gray60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 269,
+      "symbol": "UIColor.gray70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 270,
+      "symbol": "UIColor.gray80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 271,
+      "symbol": "UIColor.gray90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 272,
+      "symbol": "UIColor.green0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 273,
+      "symbol": "UIColor.green10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 274,
+      "symbol": "UIColor.green100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 275,
+      "symbol": "UIColor.green20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 276,
+      "symbol": "UIColor.green30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 277,
+      "symbol": "UIColor.green40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 278,
+      "symbol": "UIColor.green5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 279,
+      "symbol": "UIColor.green50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 280,
+      "symbol": "UIColor.green60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 281,
+      "symbol": "UIColor.green70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 282,
+      "symbol": "UIColor.green80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 283,
+      "symbol": "UIColor.green90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 284,
+      "symbol": "UIColor.indigo0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 285,
+      "symbol": "UIColor.indigo10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 286,
+      "symbol": "UIColor.indigo100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 287,
+      "symbol": "UIColor.indigo20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 288,
+      "symbol": "UIColor.indigo30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 289,
+      "symbol": "UIColor.indigo40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 290,
+      "symbol": "UIColor.indigo5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 291,
+      "symbol": "UIColor.indigo50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 292,
+      "symbol": "UIColor.indigo60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 293,
+      "symbol": "UIColor.indigo70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 294,
+      "symbol": "UIColor.indigo80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 295,
+      "symbol": "UIColor.indigo90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 296,
+      "symbol": "UIColor.lime0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 297,
+      "symbol": "UIColor.lime10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 298,
+      "symbol": "UIColor.lime100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 299,
+      "symbol": "UIColor.lime20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 300,
+      "symbol": "UIColor.lime30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 301,
+      "symbol": "UIColor.lime40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 302,
+      "symbol": "UIColor.lime5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 303,
+      "symbol": "UIColor.lime50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 304,
+      "symbol": "UIColor.lime60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 305,
+      "symbol": "UIColor.lime70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 306,
+      "symbol": "UIColor.lime80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 307,
+      "symbol": "UIColor.lime90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 308,
+      "symbol": "UIColor.mint0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 309,
+      "symbol": "UIColor.mint10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 310,
+      "symbol": "UIColor.mint100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 311,
+      "symbol": "UIColor.mint20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 312,
+      "symbol": "UIColor.mint30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 313,
+      "symbol": "UIColor.mint40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 314,
+      "symbol": "UIColor.mint5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 315,
+      "symbol": "UIColor.mint50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 316,
+      "symbol": "UIColor.mint60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 317,
+      "symbol": "UIColor.mint70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 318,
+      "symbol": "UIColor.mint80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 319,
+      "symbol": "UIColor.mint90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 320,
+      "symbol": "UIColor.olive0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 321,
+      "symbol": "UIColor.olive10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 322,
+      "symbol": "UIColor.olive100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 323,
+      "symbol": "UIColor.olive20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 324,
+      "symbol": "UIColor.olive30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 325,
+      "symbol": "UIColor.olive40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 326,
+      "symbol": "UIColor.olive5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 327,
+      "symbol": "UIColor.olive50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 328,
+      "symbol": "UIColor.olive60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 329,
+      "symbol": "UIColor.olive70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 330,
+      "symbol": "UIColor.olive80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 331,
+      "symbol": "UIColor.olive90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 332,
+      "symbol": "UIColor.orange0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 333,
+      "symbol": "UIColor.orange10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 334,
+      "symbol": "UIColor.orange100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 335,
+      "symbol": "UIColor.orange20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 336,
+      "symbol": "UIColor.orange30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 337,
+      "symbol": "UIColor.orange40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 338,
+      "symbol": "UIColor.orange5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 339,
+      "symbol": "UIColor.orange50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 340,
+      "symbol": "UIColor.orange60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 341,
+      "symbol": "UIColor.orange70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 342,
+      "symbol": "UIColor.orange80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 343,
+      "symbol": "UIColor.orange90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 344,
+      "symbol": "UIColor.pink0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 345,
+      "symbol": "UIColor.pink10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 346,
+      "symbol": "UIColor.pink100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 347,
+      "symbol": "UIColor.pink20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 348,
+      "symbol": "UIColor.pink30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 349,
+      "symbol": "UIColor.pink40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 350,
+      "symbol": "UIColor.pink5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 351,
+      "symbol": "UIColor.pink50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 352,
+      "symbol": "UIColor.pink60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 353,
+      "symbol": "UIColor.pink70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 354,
+      "symbol": "UIColor.pink80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 355,
+      "symbol": "UIColor.pink90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 356,
+      "symbol": "UIColor.purple0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 357,
+      "symbol": "UIColor.purple10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 358,
+      "symbol": "UIColor.purple100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 359,
+      "symbol": "UIColor.purple20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 360,
+      "symbol": "UIColor.purple30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 361,
+      "symbol": "UIColor.purple40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 362,
+      "symbol": "UIColor.purple5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 363,
+      "symbol": "UIColor.purple50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 364,
+      "symbol": "UIColor.purple60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 365,
+      "symbol": "UIColor.purple70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 366,
+      "symbol": "UIColor.purple80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 367,
+      "symbol": "UIColor.purple90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 368,
+      "symbol": "UIColor.red0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 369,
+      "symbol": "UIColor.red10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 370,
+      "symbol": "UIColor.red100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 371,
+      "symbol": "UIColor.red20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 372,
+      "symbol": "UIColor.red30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 373,
+      "symbol": "UIColor.red40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 374,
+      "symbol": "UIColor.red5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 375,
+      "symbol": "UIColor.red50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 376,
+      "symbol": "UIColor.red60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 377,
+      "symbol": "UIColor.red70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 378,
+      "symbol": "UIColor.red80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 379,
+      "symbol": "UIColor.red90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 380,
+      "symbol": "UIColor.rose0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 381,
+      "symbol": "UIColor.rose10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 382,
+      "symbol": "UIColor.rose100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 383,
+      "symbol": "UIColor.rose20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 384,
+      "symbol": "UIColor.rose30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 385,
+      "symbol": "UIColor.rose40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 386,
+      "symbol": "UIColor.rose5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 387,
+      "symbol": "UIColor.rose50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 388,
+      "symbol": "UIColor.rose60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 389,
+      "symbol": "UIColor.rose70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 390,
+      "symbol": "UIColor.rose80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 391,
+      "symbol": "UIColor.rose90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 392,
+      "symbol": "UIColor.sand0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 393,
+      "symbol": "UIColor.sand10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 394,
+      "symbol": "UIColor.sand100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 395,
+      "symbol": "UIColor.sand20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 396,
+      "symbol": "UIColor.sand30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 397,
+      "symbol": "UIColor.sand40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 398,
+      "symbol": "UIColor.sand5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 399,
+      "symbol": "UIColor.sand50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 400,
+      "symbol": "UIColor.sand60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 401,
+      "symbol": "UIColor.sand70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 402,
+      "symbol": "UIColor.sand80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 403,
+      "symbol": "UIColor.sand90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 404,
+      "symbol": "UIColor.teal0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 405,
+      "symbol": "UIColor.teal10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 406,
+      "symbol": "UIColor.teal100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 407,
+      "symbol": "UIColor.teal20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 408,
+      "symbol": "UIColor.teal30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 409,
+      "symbol": "UIColor.teal40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 410,
+      "symbol": "UIColor.teal5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 411,
+      "symbol": "UIColor.teal50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 412,
+      "symbol": "UIColor.teal60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 413,
+      "symbol": "UIColor.teal70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 414,
+      "symbol": "UIColor.teal80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 415,
+      "symbol": "UIColor.teal90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 416,
+      "symbol": "UIColor.white",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 417,
+      "symbol": "UIColor.yellow0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 418,
+      "symbol": "UIColor.yellow10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 419,
+      "symbol": "UIColor.yellow100",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 420,
+      "symbol": "UIColor.yellow20",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 421,
+      "symbol": "UIColor.yellow30",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 422,
+      "symbol": "UIColor.yellow40",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 423,
+      "symbol": "UIColor.yellow5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 424,
+      "symbol": "UIColor.yellow50",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 425,
+      "symbol": "UIColor.yellow60",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 426,
+      "symbol": "UIColor.yellow70",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 427,
+      "symbol": "UIColor.yellow80",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSColors.swift",
+      "line": 428,
+      "symbol": "UIColor.yellow90",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem"
+}

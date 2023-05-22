@@ -1,0 +1,48 @@
+<coverage version="1">
+  <file path="/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystem/Theme/LDSResource.swift">
+    <lineToCover lineNumber="22" covered="false"/>
+    <lineToCover lineNumber="23" covered="false"/>
+    <lineToCover lineNumber="24" covered="false"/>
+    <lineToCover lineNumber="25" covered="false"/>
+    <lineToCover lineNumber="26" covered="false"/>
+    <lineToCover lineNumber="27" covered="false"/>
+    <lineToCover lineNumber="30" covered="false"/>
+    <lineToCover lineNumber="31" covered="false"/>
+    <lineToCover lineNumber="32" covered="false"/>
+    <lineToCover lineNumber="33" covered="false"/>
+    <lineToCover lineNumber="34" covered="false"/>
+    <lineToCover lineNumber="35" covered="false"/>
+    <lineToCover lineNumber="36" covered="false"/>
+    <lineToCover lineNumber="40" covered="false"/>
+    <lineToCover lineNumber="41" covered="false"/>
+    <lineToCover lineNumber="42" covered="false"/>
+    <lineToCover lineNumber="49" covered="true"/>
+    <lineToCover lineNumber="50" covered="true"/>
+    <lineToCover lineNumber="51" covered="true"/>
+    <lineToCover lineNumber="60" covered="true"/>
+    <lineToCover lineNumber="61" covered="true"/>
+    <lineToCover lineNumber="62" covered="true"/>
+    <lineToCover lineNumber="63" covered="true"/>
+    <lineToCover lineNumber="74" covered="false"/>
+    <lineToCover lineNumber="75" covered="false"/>
+    <lineToCover lineNumber="76" covered="false"/>
+    <lineToCover lineNumber="77" covered="false"/>
+    <lineToCover lineNumber="86" covered="true"/>
+    <lineToCover lineNumber="87" covered="true"/>
+    <lineToCover lineNumber="88" covered="true"/>
+    <lineToCover lineNumber="89" covered="true"/>
+    <lineToCover lineNumber="90" covered="true"/>
+    <lineToCover lineNumber="91" covered="true"/>
+    <lineToCover lineNumber="92" covered="true"/>
+  </file>
+  <file path="/Users/fernandaolimpiojesusdeabreu/projects/mob-design-system-ios/DesignSystem/DesignSystemTests/DesignSystemTests.swift">
+    <lineToCover lineNumber="14" covered="true"/>
+    <lineToCover lineNumber="15" covered="true"/>
+    <lineToCover lineNumber="16" covered="true"/>
+    <lineToCover lineNumber="17" covered="true"/>
+    <lineToCover lineNumber="18" covered="true"/>
+    <lineToCover lineNumber="19" covered="true"/>
+    <lineToCover lineNumber="20" covered="true"/>
+    <lineToCover lineNumber="21" covered="true"/>
+  </file>
+</coverage>

@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mob-design-system-ios
+  description: Biblioteca ios de design system
+  test: arquitetura_corp
+  annotations:
+    github.com/project-slug: Arquitetura - Bibliotecas Open Source Localiza/mob-design-system-ios
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: library
+  lifecycle: experimental
+  owner: arquitetura_corp

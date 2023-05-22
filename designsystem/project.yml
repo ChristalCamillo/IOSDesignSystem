@@ -1,0 +1,46 @@
+name: DesignSystem
+options:
+  bundleIdPrefix: com.localiza
+targets:
+  DesignSystemExample:
+    type: application
+    platform: iOS
+    sources: 
+      - path: DesignSystemExample
+    dependencies:
+      - target: DesignSystem
+  DesignSystem:
+    type: framework
+    platform: iOS
+    sources: 
+      - path: DesignSystem
+    info:
+      path: DesignSystem/Info.plist
+    preBuildScripts:
+      - name: "Run SwiftGen"
+        script: |
+                export PATH="$PATH:/opt/homebrew/bin"
+                if which swiftgen >/dev/null; then
+                  swiftgen
+                else
+                  echo "warning: SwiftGen not installed, download from https://github.com/SwiftGen/SwiftGen"
+                fi            
+    postCompileScripts: 
+      - name: "Run SwiftLint"
+        script: |
+                export PATH="$PATH:/opt/homebrew/bin"
+                if which swiftlint >/dev/null; then
+                  swiftlint
+                else
+                  echo "warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint"
+                fi
+    scheme:
+      testTargets:
+      - DesignSystemTests
+  DesignSystemTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: DesignSystemTests
+    info:
+      path: DesignSystem/Info.plist  

@@ -1,0 +1,128 @@
+// swiftlint:disable all
+// Generated using SwiftGen — https://github.com/SwiftGen/SwiftGen
+
+{% if catalogs %}
+{% set enumName %}{{param.enumName|default:"Asset"}}{% endset %}
+{% set forceNamespaces %}{{param.forceProvidesNamespaces|default:"false"}}{% endset %}
+{% set accessModifier %}{% if param.publicAccess %}public{% else %}internal{% endif %}{% endset %}
+
+// MARK: - Color catalogs
+import UIKit
+#if canImport(SwiftUI)
+  import SwiftUI
+#endif
+{% macro enumBlock assets %}
+  {% call casesBlock assets %}
+  {% if param.allValues %}
+  
+  {% endif %}
+{% endmacro %}
+{% macro casesBlock assets %}
+  {% for asset in assets %}
+  {% if asset.type == "color" %}
+  case {{asset.name|swiftIdentifier:"pretty"|lowerFirstWord|escapeReservedKeywords}} = "{{asset.name}}"
+  {% elif asset.type == "data" %}
+  {{accessModifier}} public static let {{asset.name|swiftIdentifier:"pretty"|lowerFirstWord|escapeReservedKeywords}} = {{dataType}}(name: "{{asset.value}}")
+  {% elif asset.type == "image" %}
+  {% elif asset.items and ( forceNamespaces == "true" or asset.isNamespaced == "true" ) %}
+  {{accessModifier}} enum {{asset.name|swiftIdentifier:"pretty"|escapeReservedKeywords}} {
+
+    {% filter indent:2 %}{% call casesBlock asset.items %}{% endfilter %}
+  }
+  {% elif asset.items %}
+  {% call casesBlock asset.items %}
+  {% endif %}
+  {% endfor %}
+{% endmacro %}
+{% macro variableBlock assets %}
+  {% for asset in assets %}
+  {% if asset.type == "color" %}
+  public static let {{asset.name|swiftIdentifier:"pretty"|lowerFirstWord|escapeReservedKeywords}} = UIColor.appColor(.{{asset.name|swiftIdentifier:"pretty"|lowerFirstWord|escapeReservedKeywords}})
+  {% elif asset.type == "data" %}
+  {{accessModifier}} public static let {{asset.name|swiftIdentifier:"pretty"|lowerFirstWord|escapeReservedKeywords}} = {{dataType}}(name: "{{asset.value}}")
+  {% elif asset.type == "image" %}
+  {% elif asset.items and ( forceNamespaces == "true" or asset.isNamespaced == "true" ) %}
+  {{accessModifier}} enum {{asset.name|swiftIdentifier:"pretty"|escapeReservedKeywords}} {
+
+    {% filter indent:2 %}{% call variableBlock asset.items %}{% endfilter %}
+  }
+  {% elif asset.items %}
+  {% call variableBlock asset.items %}
+  {% endif %}
+  {% endfor %}
+{% endmacro %}
+
+{% macro allValuesBlock assets filter prefix %}
+  {% for asset in assets %}
+  {% if asset.type == filter %}
+  {{prefix}}{{asset.name|swiftIdentifier:"pretty"|lowerFirstWord|escapeReservedKeywords}}{{prefix}},
+  {% elif asset.items and ( forceNamespaces == "true" or asset.isNamespaced == "true" ) %}
+  {% set prefix2 %}{{prefix}}{{asset.name|swiftIdentifier:"pretty"|escapeReservedKeywords}}.{% endset %}
+  {% call allValuesBlock asset.items filter prefix2 %}
+  {% elif asset.items %}
+  {% call allValuesBlock asset.items filter prefix %}
+  {% endif %}
+  {% endfor %}
+{% endmacro %}
+/// this enum contains all colors 
+ {{accessModifier}} enum {{enumName}} : String, CaseIterable { 
+  
+
+  {% if catalogs.count > 1 %}
+  {% for catalog in catalogs %}
+  
+  {{accessModifier}} static var {{catalog.name|swiftIdentifier:"pretty"|escapeReservedKeywords}} {
+    {% filter indent:2 %}{% call enumBlock catalog.assets %}{% endfilter %}
+  }
+  {% endfor %}
+  {% else %}
+  
+  {% call enumBlock catalogs.first.assets %}
+  {% endif %}
+
+}
+@available(iOS 11.0, tvOS 11.0, *)
+extension UIColor {
+   
+  {% for catalog in catalogs %}
+    {% call variableBlock catalog.assets %}
+  {% endfor %}
+    @available(iOS 11.0, tvOS 11.0, *)
+    /// this function creates an extension of class UIColor , adding method : appColor  and starts it by passing the resource
+    /// - Parameter name: {{enumName}} ( Resource color  that can be load by name)
+    /// 
+   public static func appColor(_ name: {{enumName}}) -> UIColor? {
+          let bundle = BundleToken.bundle
+         return UIColor(named: name.rawValue, in: bundle, compatibleWith: nil)
+    }
+}
+#if canImport(SwiftUI)
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+  extension Color {
+    /**
+    this function creates an extension of class Color from SwiftUI , adding method : uiColor  and starts it by passing the resource
+    - parameters:
+    - name:{{enumName}} ( Resource color  that can be load by name)
+    */
+    public static func uiColor(_ name: {{enumName}}) -> Color
+    {
+        let bundle = BundleToken.bundle
+        return Color(name.rawValue, bundle: bundle)
+    }
+  }
+  #endif
+  /**
+    this class creates an instance of a bundle that can be different if using SPM
+  */
+  private final class BundleToken {
+  static let bundle: Bundle = {
+    #if SWIFT_PACKAGE
+    return Bundle.module
+    #else
+    return Bundle(for: BundleToken.self)
+    #endif
+  }()
+}
+{% else %}
+
+{% endif %}

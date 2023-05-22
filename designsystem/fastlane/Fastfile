@@ -1,0 +1,67 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "Description of what the lane does"
+  lane :tests do
+    run_tests(scheme: "DesignSystem", derived_data_path: "derived_data")
+    jazzy(config: "#{ENV['PWD']}/.jazzy.yaml", module_version: "2.1.37")
+    sh "bash #{ENV['PWD']}/scripts/xccov-to-sonarqube-generic.sh #{ENV['PWD']}/Build/Logs/Test/*.xcresult/ > coverage.xml"
+    sh("sed 's@#{ENV['PWD']}/@@' #{ENV['PWD']}/fastlane/coverage.xml > sonarqube-generic-coverage.xml")
+    sh("sed -i '' 's/DesignSystem/designsystem/g'  sonarqube-generic-coverage.xml")
+  end
+  desc "Runs sonar"
+  lane :sonarQubeAnalysis do
+    sonar(
+    project_configuration_path:"./sonar-project.properties",
+    project_key: "com-localiza-designsystem-ios",
+    project_version: "1.0",
+    project_name: "IOS - DesignSystem lib",
+    sonar_organization: "aab440a34d90e639a6858a99eb4f0656f8e14fc5",
+    sonar_login: ENV["SONARCLOUD_TOKEN"],
+    sonar_url: "https://sonarcloud.io"
+  )
+  end
+  desc "Beta Pods"
+  lane :release_pods do |options|
+     version = options[:version] # 1.0.0
+     tag = options[:tag] # 1.0.0[-iOS]
+     update_podspec(path: "../DesignSystem.podspec", version: version, tag: tag)
+    
+  end
+  desc "Publish new beta version"
+  lane :beta do
+    sh "bash #{ENV['PWD']}/scripts/semver_version.sh -o none -g 'ios-design-system-' -s '-beta'"
+    VERSION_POD=sh "source version_env.sh && echo $VERSION"
+    VERSION_POD= VERSION_POD.strip
+    sh "echo $VERSION "
+    sh "fastlane ios release_pods version:'#{VERSION_POD}' tag:'ios-design-system-#{VERSION_POD}'"
+    sh "bash #{ENV['PWD']}/scripts/semver_version.sh  -g 'ios-design-system-' -p 'ios-design-system-' -s '-beta' "
+  end 
+  desc "Publish new release version"
+  lane :release do
+    sh "bash #{ENV['PWD']}/scripts/semver_version.sh -o none -g 'ios-design-system-' "
+    VERSION_POD=sh "source version_env.sh && echo $VERSION"
+    VERSION_POD= VERSION_POD.strip
+    sh "echo $VERSION"
+    sh "fastlane ios release_pods version:'#{VERSION_POD}' tag:'ios-design-system-#{VERSION_POD}'"
+    sh "bash #{ENV['PWD']}/scripts/changelog.sh -p 'ios-design-system-' -f '#{ENV['PWD']}/DesignSystem' > #{ENV['PWD']}/CHANGELOG.MD"
+    sh "bash #{ENV['PWD']}/scripts/semver_version.sh  -g 'ios-design-system-' -p 'ios-design-system-'"
+  end   
+  def update_podspec(path:, version:, tag:)
+    rootPath = "../" + path
+    file = File.read(rootPath)
+  
+    version_regex = /\.version = (.*)\n/
+    tag_regex = /tag => (.*)\n/
+    has_version_and_tag = version_regex.match(file) && tag_regex.match(file)
+    if not has_version_and_tag
+      UI.user_error!("podspec at #{path} should have version and tag")
+    end
+  
+    new_content = file
+      .gsub(version_regex, ".version = '#{version}'\n")
+      .gsub(tag_regex, "tag => '#{tag}'}\n")
+  
+    File.write(rootPath, new_content)
+  end
+end
